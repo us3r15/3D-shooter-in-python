@@ -1,2 +1,2 @@
-# 3D-shooter-in-python
-A basic doom-like 3D shooter inspired by the development for DOOM(1996)
+Game requires a file for background music and an optional text file addition
+Game music and pixel custom font will be linked alongside the .py folder
